@@ -107,26 +107,6 @@ footer {
 	margin: 120px 0px 0px 60px;
 }
 
-.text-box {
-    border: 2px solid #4CAF50;
-    border-radius: 5px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    color: #333;
-}
-
-.text-box h1, .text-box h2 {
-    color: #4CAF50;
-}
-
-.text-box ul {
-    list-style-type: square;
-    padding-left: 20px;
-}
-
 
 
 
