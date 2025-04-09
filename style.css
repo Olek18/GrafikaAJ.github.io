@@ -108,14 +108,16 @@ footer {
 }
 
 #spoko {
-width: 200px;
-height: 100px;
+width: 500px;
+height: 250px;
+float: left;
 background-color: red;
 	
 }
 #spoko2 {
-width: 200px;
-height: 100px;
+width: 500px;
+height: 250px;
+float: left;
 bawckground-color: blue;
 	
 }
