@@ -1,0 +1,112 @@
+HTML, BODY {
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-color: #363636;
+}
+#glowna {
+	background-color: #E2E2E2;
+	width: auto;
+	height: 800px;
+	margin: 20px;
+	font-size: 28px;
+	border-radius: 20px;
+	text-align: center;
+	opacity: 0.8;
+}
+#text {
+	margin: 50px 1000px 10px 70px;
+	padding: 0px 0px 0px 0px;
+	font-size: 17px;
+}
+
+#szablon {
+	width: auto;
+	margin-left: auto;
+	align-content: center;
+	background-color: #E2E2E2;
+}
+#linki {background-color: none;
+	padding: 10px;
+	height: 60px;}
+DIV {padding: 10px;}
+A {text-decoration: none;}
+UL {float: left;
+	width: 100%;
+	list-style: none;
+	padding: 5px;
+	margin: 0px;
+	}
+UL LI A {background-color: none;
+	display: block;
+	float: left;
+	width: 160px;
+	height: 40px;
+	padding-top: 5px;
+    padding-bottom: 5px;
+	text-align: center;
+	font-weight: bold;
+    color: black;
+    font-family: 'Times New Roman', Times, serif; 
+	}
+	UL LI A:hover {
+		background-color: #363636;
+		color: #E2E2E2;
+	}
+
+footer {
+	background-color: #363636;
+	padding: 35px;
+	text-align: center;
+	color: white;
+}
+
+#dd	{
+	width: 25%;
+	float: right;
+	margin: 90px;
+}
+
+#zdj {
+	margin: 50px;
+
+
+}
+
+#foto {
+	width: 33%;
+	float: left;
+}
+
+#foto2 {
+	width: 33%;
+	float: left;
+}
+
+#foto3 {
+	width: 33%;
+	float: left;
+}
+
+#wek {
+	width: 33%;
+	float: right;
+	margin: 90px
+}
+
+#kom	{
+	width: 25%;
+	float: right;
+	margin: 90px;
+}
+
+#kom2	{
+	width: 28%;
+	float: right;
+	margin: 120px 0px 0px 60px;
+}
+
+
+
+
