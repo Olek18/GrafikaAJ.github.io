@@ -10,9 +10,10 @@ HTML, BODY {
 	width: 80px;
 	height: 40px;
 	border-radius: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	margin: 20px;
 	text-align: center;
+	content-align: center;
 }
 
 .zalety {
@@ -20,9 +21,10 @@ HTML, BODY {
 	width: 80px;
 	height: 40px;
 	border-radius: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	margin: 20px;
 	text-align: center;
+	content-align: center;
 }
 
 .wady {
@@ -30,9 +32,10 @@ HTML, BODY {
 	width: 80px;
 	height: 40px;
 	border-radius: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	margin: 20px;
 	text-align: center;
+	content-align: center;
 }
 
 .zastosowanie {
@@ -40,9 +43,10 @@ HTML, BODY {
 	width: 80px;
 	height: 40px;
 	border-radius: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	margin: 20px;
 	text-align: center;
+	content-align: center;
 }
 
 .programy {
@@ -50,9 +54,10 @@ HTML, BODY {
 	width: 80px;
 	height: 40px;
 	border-radius: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	margin: 20px;
 	text-align: center;
+	content-align: center;
 }
 
 .pliki {
@@ -60,9 +65,10 @@ HTML, BODY {
 	width: 80px;
 	height: 40px;
 	border-radius: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	margin: 20px;
 	text-align: center;
+	content-align: center;
 }
 
 #glowna {
@@ -70,7 +76,7 @@ HTML, BODY {
 	width: 80px;
 	height: 1800px;
 	margin: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	border-radius: 20px;
 	text-align: center;
 	opacity: 0.8;
@@ -81,7 +87,7 @@ HTML, BODY {
 	width: 80px;
 	height: 800px;
 	margin: 20px;
-	font-size: 28px;
+	font-size: 20px;
 	border-radius: 20px;
 	text-align: center;
 	opacity: 0.8;
