@@ -12,7 +12,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
-	padding: 70px;
+	padding: 90px;
 	text-align: center;
 	content-align: center;
 }
@@ -24,7 +24,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
-	padding: 70px;
+	padding: 90px;
 	text-align: center;
 	content-align: center;
 }
@@ -36,7 +36,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
-	padding: 70px;
+	padding: 90px;
 	text-align: center;
 	content-align: center;
 }
@@ -48,7 +48,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
-	padding: 70px;
+	padding: 90px;
 	text-align: center;
 	content-align: center;
 }
@@ -60,7 +60,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
-	padding: 70px;
+	padding: 90px;
 	text-align: center;
 	content-align: center;
 }
@@ -72,7 +72,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
-	padding: 70px;
+	padding: 90px;
 	text-align: center;
 	content-align: center;
 }
@@ -80,12 +80,72 @@ HTML, BODY {
 #Sglowna {
 	background-color: #E2E2E2;
 	width: auto;
-	height: 200px;
+	height: 400px;
 	margin: 20px;
 	font-size: 20px;
 	border-radius: 20px;
 	text-align: center;
 	opacity: 0.8;
+}
+
+.inf {
+	background-color: #E2E2E2;
+	width: 600px;
+	height: auto;
+	border-radius: 20px;
+	font-size: 20px;
+	margin: auto;
+	padding: 90px;
+	text-align: center;
+	content-align: center;
+}
+
+.roz {
+	background-color: #E2E2E2;
+	width: 600px;
+	height: auto;
+	border-radius: 20px;
+	font-size: 20px;
+	margin: auto;
+	padding: 90px;
+	text-align: center;
+	content-align: center;
+}
+
+.kol {
+	background-color: #E2E2E2;
+	width: 600px;
+	height: auto;
+	border-radius: 20px;
+	font-size: 20px;
+	margin: auto;
+	padding: 90px;
+	text-align: center;
+	content-align: center;
+}
+
+.gle {
+	background-color: #E2E2E2;
+	width: 600px;
+	height: auto;
+	border-radius: 20px;
+	font-size: 20px;
+	margin: auto;
+	padding: 90px;
+	text-align: center;
+	content-align: center;
+}
+
+.res {
+	background-color: #E2E2E2;
+	width: 600px;
+	height: auto;
+	border-radius: 20px;
+	font-size: 20px;
+	margin: auto;
+	padding: 90px;
+	text-align: center;
+	content-align: center;
 }
 #text {
 	margin: auto;
