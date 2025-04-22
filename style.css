@@ -8,7 +8,18 @@ HTML, BODY {
 #glowna {
 	background-color: #E2E2E2;
 	width: auto;
-	height: 15000px;
+	height: 1500px;
+	margin: 20px;
+	font-size: 28px;
+	border-radius: 20px;
+	text-align: center;
+	opacity: 0.8;
+}
+
+#1glowna {
+	background-color: #E2E2E2;
+	width: auto;
+	height: 800px;
 	margin: 20px;
 	font-size: 28px;
 	border-radius: 20px;
