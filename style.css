@@ -5,6 +5,30 @@ HTML, BODY {
 	text-align: center;
 	background-color: #363636;
 }
+.coto {
+	background-color: #E2E2E2;
+}
+
+.zalety {
+	background-color: #E2E2E2;
+}
+
+.wady {
+	background-color: #E2E2E2;
+}
+
+.zastosowanie {
+	background-color: #E2E2E2;
+}
+
+.programy {
+	background-color: #E2E2E2;
+}
+
+.pliki {
+	background-color: #E2E2E2;
+}
+
 #glowna {
 	background-color: #E2E2E2;
 	width: auto;
