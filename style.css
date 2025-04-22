@@ -136,6 +136,10 @@ HTML, BODY {
 	text-align: center;
 	content-align: center;
 }
+.zdj12 {
+	height: auto;
+	width: auto;
+}
 #text {
 	margin: auto;
 	padding: 0px 0px 0px 0px;
