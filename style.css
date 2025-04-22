@@ -12,6 +12,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 28px;
 	margin: 20px;
+	text-align: center;
 }
 
 .zalety {
@@ -21,6 +22,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 28px;
 	margin: 20px;
+	text-align: center;
 }
 
 .wady {
@@ -30,6 +32,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 28px;
 	margin: 20px;
+	text-align: center;
 }
 
 .zastosowanie {
@@ -39,6 +42,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 28px;
 	margin: 20px;
+	text-align: center;
 }
 
 .programy {
@@ -48,6 +52,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 28px;
 	margin: 20px;
+	text-align: center;
 }
 
 .pliki {
@@ -57,6 +62,7 @@ HTML, BODY {
 	border-radius: 20px;
 	font-size: 28px;
 	margin: 20px;
+	text-align: center;
 }
 
 #glowna {
