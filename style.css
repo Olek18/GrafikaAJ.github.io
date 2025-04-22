@@ -7,8 +7,8 @@ HTML, BODY {
 }
 .coto {
 	background-color: #E2E2E2;
-	width: 80px;
-	height: 40px;
+	width: auto;
+	height: 80px;
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
@@ -18,8 +18,8 @@ HTML, BODY {
 
 .zalety {
 	background-color: #E2E2E2;
-	width: 80px;
-	height: 40px;
+	width: auto;
+	height: 80px;
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
@@ -29,8 +29,8 @@ HTML, BODY {
 
 .wady {
 	background-color: #E2E2E2;
-	width: 80px;
-	height: 40px;
+	width: auto;
+	height: 80px;
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
@@ -40,8 +40,8 @@ HTML, BODY {
 
 .zastosowanie {
 	background-color: #E2E2E2;
-	width: 80px;
-	height: 40px;
+	width: auto;
+	height: 80px;
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
@@ -51,8 +51,8 @@ HTML, BODY {
 
 .programy {
 	background-color: #E2E2E2;
-	width: 80px;
-	height: 40px;
+	width: auto;
+	height: 80px;
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
@@ -62,8 +62,8 @@ HTML, BODY {
 
 .pliki {
 	background-color: #E2E2E2;
-	width: 80px;
-	height: 40px;
+	width: auto;
+	height: 80px;
 	border-radius: 20px;
 	font-size: 20px;
 	margin: auto;
@@ -71,20 +71,9 @@ HTML, BODY {
 	content-align: center;
 }
 
-#glowna {
-	background-color: #E2E2E2;
-	width: 80px;
-	height: 1800px;
-	margin: 20px;
-	font-size: 20px;
-	border-radius: 20px;
-	text-align: center;
-	opacity: 0.8;
-}
-
 #Sglowna {
 	background-color: #E2E2E2;
-	width: 80px;
+	width: auto;
 	height: 800px;
 	margin: 20px;
 	font-size: 20px;
