@@ -140,6 +140,7 @@ HTML, BODY {
 	height: 30%;
 	width: 30%;
 	float: left;
+	margin: auto;
 }
 #text {
 	margin: auto;
