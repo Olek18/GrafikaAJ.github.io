@@ -137,8 +137,8 @@ HTML, BODY {
 	content-align: center;
 }
 .zdj12 {
-	height: 30%;
-	width: 30%;
+	height: auto;
+	width: auto;
 	float: left;
 	margin: auto;
 }
