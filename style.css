@@ -139,6 +139,7 @@ HTML, BODY {
 .zdj12 {
 	height: 30%;
 	width: 30%;
+	float: left;
 }
 #text {
 	margin: auto;
