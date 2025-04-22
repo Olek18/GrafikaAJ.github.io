@@ -7,7 +7,7 @@ HTML, BODY {
 }
 #glowna {
 	background-color: #E2E2E2;
-	width: 400px;
+	width: auto;
 	height: 1500px;
 	margin: 20px;
 	font-size: 28px;
