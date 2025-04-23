@@ -5,6 +5,9 @@ HTML, BODY {
 	text-align: center;
 	background-color: #363636;
 }
+span {
+	text-align: left;
+}
 .coto {
 	background-color: #E2E2E2;
 	width: 600px;
